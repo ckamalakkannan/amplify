@@ -10,6 +10,11 @@
       "StackName": "amplify-simplemenu-dev-172423",
       "StackId": "arn:aws:cloudformation:us-east-2:959349243691:stack/amplify-simplemenu-dev-172423/7e1f2cb0-2802-11eb-a78a-02b5bdb5cbf4",
       "AmplifyAppId": "d1ksz2uja3fusv"
+    },
+    "categories": {
+      "auth": {
+        "simplemenu7a079371": {}
+      }
     }
   }
 }
